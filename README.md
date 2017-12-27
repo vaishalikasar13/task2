@@ -8,17 +8,15 @@ Readme file of Assignment
 
 2.php artisan db:seed -- class=CountriesTableSeeder
 
+************ ************ ************ ************ ************ 
+
 
 
 1.Once the project setup has been done.run the project.
-2.open the command prompt and execute the following lines for migration and seeding
--php artisan migrate (To create table).
--php artisan db:seed -- class=CountriesTableSeeder (To insert dummy data in countries table)
-3.Run the project
-4.You will see list available countries with ISO code
-5.Filter- It will give you result of the selected country code.
+2.You will see list available countries with ISO code
+3.Filter- It will give you result of the selected country code.
 
-************ INTERNAL WORKING OF TASK1 ************
+************ INTERNAL WORKING OF TASK2 ************
 
 1.You will see http://localhost:8000/ URL (vary according to your port no.)
 
