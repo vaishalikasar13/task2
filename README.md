@@ -2,7 +2,7 @@ Readme file of Assignment
 
 ************ TASK2 Migration & seeding************
 
-************  Commands to be executes************
+************  Commands to be executed************
 
 1.php artisan migrate
 
