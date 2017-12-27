@@ -1,6 +1,9 @@
 Readme file of Assignment
 
 ************ TASK2 Migration & seeding************
+************  Commands to be executes************
+1.php artisan migrate
+2.php artisan db:seed -- class=CountriesTableSeeder
 
 
 
