@@ -24,19 +24,26 @@ Readme file of Assignment
 
 2.Route 
 	i.Location --LARAVEL_ROOT/routes/web.php
+	
 	ii.usage --
 	Route::get('/', 'CountriesController@CountriesListView');
 
 3.controller  
 	i.location--LARAVEL_ROOT/app/Http/Controllers/CountriesController
+	
 	ii.CountriesController function checks wheather iso exist or not.
+	
 		-if not then it selects all the data from db else only filtered data.
 
 4.VIEW
 	i.location--LARAVEL_ROOT/resources/views/countries-list.blade.php 
+	
 	ii.what is .blade after view name --Blade is the simple, yet a powerful templating engine provided with Laravel.
+	
 	iii.use of blade template--- for reducing or simplifying the code that you write in your view
+	
 	e.g     <?php echo strtoupper('hello') ?>(PHP VIEW .php ) ==   {{strtoupper('hello')}} (BLADE VIEW .blade.php).
+	
 	iv.this view shows the list of  available countries
 	
 
