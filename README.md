@@ -23,12 +23,14 @@ Readme file of Assignment
 1.You will see http://localhost:8000/ URL (vary according to your port no.)
 
 2.Route 
+
 	i.Location --LARAVEL_ROOT/routes/web.php
 	
 	ii.usage --
 	Route::get('/', 'CountriesController@CountriesListView');
 
 3.controller  
+
 	i.location--LARAVEL_ROOT/app/Http/Controllers/CountriesController
 	
 	ii.CountriesController function checks wheather iso exist or not.
@@ -36,6 +38,7 @@ Readme file of Assignment
 		-if not then it selects all the data from db else only filtered data.
 
 4.VIEW
+
 	i.location--LARAVEL_ROOT/resources/views/countries-list.blade.php 
 	
 	ii.what is .blade after view name --Blade is the simple, yet a powerful templating engine provided with Laravel.
