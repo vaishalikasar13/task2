@@ -5,6 +5,7 @@ Readme file of Assignment
 ************  Commands to be executes************
 
 1.php artisan migrate
+
 2.php artisan db:seed -- class=CountriesTableSeeder
 
 
