@@ -6,7 +6,7 @@ Readme file of Assignment
 
 1.php artisan migrate
 
-2.php artisan db:seed -- class=CountriesTableSeeder
+2.php artisan db:seed
 
 ************ ************ ************ ************ ************ 
 
