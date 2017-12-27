@@ -13,7 +13,9 @@ Readme file of Assignment
 
 
 1.Once the project setup has been done.run the project.
+
 2.You will see list available countries with ISO code
+
 3.Filter- It will give you result of the selected country code.
 
 ************ INTERNAL WORKING OF TASK2 ************
